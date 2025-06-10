@@ -54,6 +54,6 @@ repositories {
 
 dependencies {
     implementation 'androidx.annotation:annotation:1.5.0'
-    implementation(name: 'ffmpeg-kit-https-6.0-2', ext: 'aar')
+    implementation(name: 'ffmpeg-kit-audio-6.0-2', ext: 'aar')
 }
 
